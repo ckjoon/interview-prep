@@ -1,8 +1,7 @@
 # interview-prep
 ##Challenges 
-1. One coding Question Per Day (One push per day at least)
-2. Use only terminal window without any IDE interaction
-3. 
+  - One push / Question per day
+  - Use only terminal to code / edit 
 
 Questions are from
 *www.leetCode.com
@@ -10,6 +9,6 @@ Questions are from
 
 #Notes on Java Basics
 
-'''Java
- System.out.println("hi");
-'''
+```Java
+System.out.println("hi");
+```
