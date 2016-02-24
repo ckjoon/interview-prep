@@ -9,6 +9,7 @@
   -Cracking the Coding Interview 5th Edition.
 
 #ROADMAP
+  0. Use Terminal and Vim
   1. Java Basic Syntax Review
   2. Java Libraries and How to use them
   3. String Manipulation
@@ -24,7 +25,18 @@
   13. Threading
   14. Database
 
+## Use Terminal and Vim
+  - Feb 23rd
+    1. Navigation with Vim uses h,j,k,l
+    2. Insert and Visual Mode can be used to edit codes.
+    3. iTerm2 lets one use the split panes for development
+
 ##Java Basic Syntax Review
+  - Feb 23rd
+    1. Visibility, Keyword, Return
+    2. Formatting prints
+    3. Using Scanner
+     			
 ##Java Libraries and How to use them
 ##String Manipulation
 ##Recursion + Iteration on Famous Computing Problems 
