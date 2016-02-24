@@ -10,6 +10,6 @@ Questions are from
 
 #Notes on Java Basics
 
-'''java
-System.out.println("hi");
+'''Java
+ System.out.println("hi");
 '''
