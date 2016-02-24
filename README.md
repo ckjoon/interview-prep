@@ -3,7 +3,8 @@
   - One push / Question per day
   - Use only terminal to code / edit 
   - Practice Algorithm / Data Structure with Java
-Questions are from
+
+##Questions are from
   -www.leetCode.com
   -Cracking the Coding Interview 5th Edition.
 
@@ -22,4 +23,25 @@ Questions are from
   12. Searching Algorithm
   13. Threading
   14. Database
- 
+
+##Java Basic Syntax Review
+##Java Libraries and How to use them
+##String Manipulation
+##Recursion + Iteration on Famous Computing Problems 
+##Arrays
+##Sorting
+##Linked List
+##Stack / Queue
+##Trees, Graph
+##Bit Mainpulation
+##Dynamic Programming
+##Searching Algorithm
+##Threading
+##Database
+
+
+
+
+
+#
+
