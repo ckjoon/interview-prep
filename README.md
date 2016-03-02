@@ -40,8 +40,12 @@
     3. Queue uses add and remove, Stack uses push and poll. 			
 ##Java Libraries and How to use them
 ##String Manipulation
+  - March 1st
+    1. isAnagram 
+    2. isPalindrome
+    3. Reverse
 ##Recursion + Iteration on Famous Computing Problems 
-  - Recursion
+  - March 1st
     1. Fibbonacci
     2. Sum of the digits
     3. Factorial
