@@ -1,6 +1,5 @@
 # interview-prep
 ##Challenges 
-  - One push / Question per day
   - Use only terminal to code / edit 
   - Practice Algorithm / Data Structure with Java
 
@@ -30,16 +29,22 @@
     1. Navigation with Vim uses h,j,k,l
     2. Insert and Visual Mode can be used to edit codes.
     3. iTerm2 lets one use the split panes for development
-
 ##Java Basic Syntax Review
   - Feb 23rd
     1. Visibility, Keyword, Return
     2. Formatting prints
     3. Using Scanner
-     			
+  - March 1st
+    1. Basic Recursions
+    2. String uses .length() array uses .length and ArrayList uses size()
+    3. Queue uses add and remove, Stack uses push and poll. 			
 ##Java Libraries and How to use them
 ##String Manipulation
 ##Recursion + Iteration on Famous Computing Problems 
+  - Recursion
+    1. Fibbonacci
+    2. Sum of the digits
+    3. Factorial
 ##Arrays
 ##Sorting
 ##Linked List
