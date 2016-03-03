@@ -39,6 +39,9 @@
     2. String uses .length() array uses .length and ArrayList uses size()
     3. Queue uses add and remove, Stack uses push and poll. 			
 ##Java Libraries and How to use them
+  - March 2nd
+    1. Stack and Queue
+    2. HashMap and HashSet
 ##String Manipulation
   - March 1st
     1. isAnagram 
@@ -51,9 +54,14 @@
     3. Factorial
 ##Arrays
 ##Sorting
+  - March 2nd
+    1. Merge Sort
+    2. Special Merge Sort ( CTCI 11.1 buffered Merge sort)
 ##Linked List
 ##Stack / Queue
 ##Trees, Graph
+  - March 2nd
+    1. Made Tree Class
 ##Bit Mainpulation
 ##Dynamic Programming
 ##Searching Algorithm
